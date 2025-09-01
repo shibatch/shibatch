@@ -1,6 +1,9 @@
 <div align="center">
 
-&nbsp; <img src="shibatch-logo.png" width=80% />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="shibatch-logo-dark.png">
+  <img src="shibatch-logo.png" width=80%>
+</picture>
 
 </div>
 
