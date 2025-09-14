@@ -9,7 +9,7 @@
 
 
 <p align=center>
-For the full description of the projects, please refer to https://shibatch.github.io.
+For the full description of the projects, please refer to https://shibatch.org.
 </p>
 
 <p align=center>
